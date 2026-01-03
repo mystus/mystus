@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hey, I'm Matt 👋
 
-<!--
-**mystus/mystus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer based in KZN, South Africa with 20+ years in the industry.
 
-Here are some ideas to get you started:
+**What I work with:**
+- Laravel (5.2 through 12)
+- Microsoft SQL Server (performance tuning, complex reporting)
+- PHP, React Native
+- Healthcare technology & supply chain systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Currently building:** Procurement and supply chain platforms serving 170+ hospitals across South Africa.
+
+📫 [codeworx.dev](http://www.codeworx.dev)
